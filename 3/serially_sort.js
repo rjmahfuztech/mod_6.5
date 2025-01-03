@@ -9,8 +9,8 @@ console.log(
 );
 
 // Descending order sort
-console.log(
-  arr.sort(function (a, b) {
-    return b - a;
-  })
-);
+// console.log(
+//   arr.sort(function (a, b) {
+//     return b - a;
+//   })
+// );
